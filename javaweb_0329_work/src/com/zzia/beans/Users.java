@@ -1,7 +1,7 @@
 package com.zzia.beans;
 
 import java.io.Serializable;
-
+//2222
 public class Users implements Serializable {
 
 	/**
